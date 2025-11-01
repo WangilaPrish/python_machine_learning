@@ -1,0 +1,17 @@
+// ...existing code...
+# Ignore large/binary files and mac artifacts
+*.pdf
+*.zip
+*.db
+*.sqlite
+*.pbix
+*.avif
+*.webm
+*.mp4
+*.png
+*.xlsx
+__MACOSX/
+.DS_Store
+.ipynb_checkpoints/
+requirement-analysis/
+# ...existing code...
